@@ -1,6 +1,7 @@
 package jerasure
 
-import _ "github.com/cfs/gf-complete"
+import _ "github.com/c-fs/gf-complete"
+
 // #cgo CXXFLAGS: -std=c++11
 // #cgo CPPFLAGS: -I../gf-complete/internal/include
 // #cgo CPPFLAGS: -Iinternal/include
